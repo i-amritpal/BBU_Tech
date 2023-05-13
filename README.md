@@ -22,9 +22,12 @@ The app will be available for both Android and iOS platforms, making it accessib
 
 ## Screenshot
 
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png" width="250" height="450">
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png" width="250" height="450">
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png" width="250" height="450">
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png" width="250" height="450">
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/5.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png" width="250" height="450"> <img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png" width="250" height="450"> <img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png" width="250" height="450"> <img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/5.png" width="250" height="450">
 <img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/6.png" width="250" height="450">
+##  Wanna Contribute? 🚀
+  You can contribute by doing one of the following:
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔
