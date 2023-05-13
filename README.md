@@ -23,8 +23,8 @@ The app will be available for both Android and iOS platforms, making it accessib
 ## Screenshot
 
 <img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png" width="250" height="450">
-![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png)
-![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png)
-![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png)
-![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/5.png)
-![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/6.png)
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/5.png" width="250" height="450">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/6.png" width="250" height="450">
