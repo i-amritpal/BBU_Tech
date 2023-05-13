@@ -26,3 +26,4 @@ The app will be available for both Android and iOS platforms, making it accessib
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png)
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png)
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png)
+![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/5.png)
