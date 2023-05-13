@@ -22,5 +22,4 @@ The app will be available for both Android and iOS platforms, making it accessib
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![](https://github.com/i-amritpal/Monty-Hall-Problem/blob/main/download.png)
+![App Screenshot](https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png)
