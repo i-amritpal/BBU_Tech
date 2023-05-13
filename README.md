@@ -22,7 +22,7 @@ The app will be available for both Android and iOS platforms, making it accessib
 
 ## Screenshot
 
-<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png" width="100" height="100">
+<img src="https://github.com/i-amritpal/BBU_Tech/blob/main/images/1.png" width="200" height="400">
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/2.png)
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/3.png)
 ![](https://github.com/i-amritpal/BBU_Tech/blob/main/images/4.png)
